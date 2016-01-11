@@ -20,6 +20,8 @@ and could take some time to review the PR,
 otherwise if you could ask reviewers of your acquiaintance for the review.
 It needs two +1 votes from reviewers in order to be nominated for inclusion.
 
+**UPDATE** The module has been accepted into `ansible-modules-extras` and can be used with the latest versions of ansible (>2.0). Install with `brew install --devel ansible` on OSX.
+
 ## blockinfile Module
 
 This module will insert/update/remove a block of multi-line text
